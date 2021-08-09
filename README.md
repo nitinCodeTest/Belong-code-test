@@ -1,11 +1,11 @@
 # About
 
-Author: Nitin Thakare
+Author: Nitin Thakare.\
 This project was bootstrapped with [Create React App].
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:.\
 Install dependencies 
 ### `yarn install`
 
